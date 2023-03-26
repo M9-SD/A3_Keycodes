@@ -3,14 +3,6 @@
 Arma 3 DIK & INTEGER KeyCodes
 in [A3_ALL_KEYCODES_DIK_INTEGER.sqf](https://github.com/M9-SD/A3_Keycodes/blob/main/A3_ALL_KEYCODES_DIK_INTEGER.sqf)
 
-## GitHub Share Link:
-
-https://github.com/M9-SD/A3_Keycodes/blob/main/A3_ALL_KEYCODES_DIK_INTEGER.sqf
-
-## GitHub Download Link:
-
-https://github.com/M9-SD/A3_Keycodes/releases/download/v.SQF.Archive/A3_ALL_KEYCODES_DIK_INTEGER.sqf
-
 # Description:
 
 A complete list of all the integer keycodes used for creating keybinds 
@@ -18,6 +10,14 @@ A complete list of all the integer keycodes used for creating keybinds
 game Arma 3 by Bohemia Interactive. You can use either of the following 
 script commands to register the new keybind (depending on use-case):
 `displayAddEventHandler` or `ctrlAddEventHandler`. 
+
+## GitHub Share Link:
+
+https://github.com/M9-SD/A3_Keycodes/blob/main/A3_ALL_KEYCODES_DIK_INTEGER.sqf
+
+## GitHub Download Link:
+
+https://github.com/M9-SD/A3_Keycodes/releases/download/v.SQF.Archive/A3_ALL_KEYCODES_DIK_INTEGER.sqf
 
 ## Source(s):
 
