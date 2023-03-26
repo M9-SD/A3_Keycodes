@@ -8,7 +8,6 @@
 	A complete list of all the integer keycodes used for creating keybinds 
 	(user interface event handlers `keyDown` and `mouseButtonDown`) in Arma 3.
 
-
 	Source(s):
 	
 	https://community.bistudio.com/wiki/DIK_KeyCodes
