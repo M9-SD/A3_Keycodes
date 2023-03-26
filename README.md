@@ -21,8 +21,8 @@ https://github.com/M9-SD/A3_Keycodes/releases/download/v.SQF.Archive/A3_ALL_KEYC
 
 ## Source(s):
 
-https://community.bistudio.com/wiki/DIK_KeyCodes
-https://community.bistudio.com/wiki/User_Interface_Event_Handlers#onKeyDown
-https://community.bistudio.com/wiki/User_Interface_Event_Handlers#onMouseButtonDown
-https://community.bistudio.com/wiki/displayAddEventHandler
-https://community.bistudio.com/wiki/ctrlAddEventHandler
+- https://community.bistudio.com/wiki/DIK_KeyCodes
+- https://community.bistudio.com/wiki/User_Interface_Event_Handlers#onKeyDown
+- https://community.bistudio.com/wiki/User_Interface_Event_Handlers#onMouseButtonDown
+- https://community.bistudio.com/wiki/displayAddEventHandler
+- https://community.bistudio.com/wiki/ctrlAddEventHandler
