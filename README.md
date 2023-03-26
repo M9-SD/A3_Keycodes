@@ -1,7 +1,7 @@
 # A3_Keycodes:
 
 Arma 3 DIK & INTEGER KeyCodes
-in A3_ALL_KEYCODES_DIK_INTEGER.sqf
+in [A3_ALL_KEYCODES_DIK_INTEGER.sqf](https://github.com/M9-SD/A3_Keycodes/blob/main/A3_ALL_KEYCODES_DIK_INTEGER.sqf)
 
 # GitHub Share Link:
 
