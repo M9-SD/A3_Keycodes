@@ -7,6 +7,10 @@ in [A3_ALL_KEYCODES_DIK_INTEGER.sqf](https://github.com/M9-SD/A3_Keycodes/blob/m
 
 https://github.com/M9-SD/A3_Keycodes/blob/main/A3_ALL_KEYCODES_DIK_INTEGER.sqf
 
+# GitHub Download Link:
+
+https://github.com/M9-SD/A3_Keycodes/releases/download/v.SQF.Archive/A3_ALL_KEYCODES_DIK_INTEGER.sqf
+
 # Description:
 
 A complete list of all the integer keycodes used for creating keybinds 
