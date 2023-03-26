@@ -19,7 +19,7 @@ https://github.com/M9-SD/A3_Keycodes/blob/main/A3_ALL_KEYCODES_DIK_INTEGER.sqf
 
 https://github.com/M9-SD/A3_Keycodes/releases/download/v.SQF.Archive/A3_ALL_KEYCODES_DIK_INTEGER.sqf
 
-### Source(s):
+## Source(s):
 
 - https://community.bistudio.com/wiki/DIK_KeyCodes
 - https://community.bistudio.com/wiki/User_Interface_Event_Handlers#onKeyDown
