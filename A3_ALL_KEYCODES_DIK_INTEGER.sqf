@@ -1,7 +1,7 @@
 /*
 	GitHub Share Link:
 
-	https://github.com/M9-SD/A3_Keycodes/blob/main/Arma%203%20KEYCODES.sqf
+	https://github.com/M9-SD/A3_Keycodes/blob/main/A3_ALL_KEYCODES_DIK_INTEGER.sqf
 
 	Description:
 	
